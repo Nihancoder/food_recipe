@@ -7,7 +7,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
 
 import 'screens/ASplashScreen.dart';
-// not updated
+// Updated by Nazim
 AppStore appStore = AppStore();
 
 void main() async {
