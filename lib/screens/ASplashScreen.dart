@@ -22,7 +22,7 @@ class _ASplashScreenState extends State<ASplashScreen> {
     return Scaffold(
       body: Stack(
         children: [
-          Center(child: Text('Appetit', style: TextStyle(fontSize: 45))),
+          Center(child: Text('Nihancoder Food', style: TextStyle(fontSize: 45))),
           Positioned(
             left: 0,
             bottom: 0,

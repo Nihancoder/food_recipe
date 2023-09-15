@@ -18,21 +18,21 @@ class AWalkThroughModel {
 
 final List<AWalkThroughModel> modal = [
   AWalkThroughModel(
-    heading: 'Appetit',
+    heading: 'Nihancoder Food',
     title: 'Share Your Recipes',
     subtitle: 'Learn and Share your recipes with getting amazing rewards published by amazon ',
     image: 'image/appetit/p1.jpg',
     progress: 0.33,
   ),
   AWalkThroughModel(
-    heading: 'Appetit',
+    heading: 'Nihancoder Food',
     title: 'Learn to cook',
     subtitle: 'Learn and Share your recipes with getting amazing rewards published by amazon ',
     image: 'image/appetit/p3.jpg',
     progress: 0.66,
   ),
   AWalkThroughModel(
-    heading: 'Appetit',
+    heading: 'Nihancoder Food',
     title: 'Become a Master Chef',
     subtitle: 'Learn and Share your recipes with getting amazing rewards published by amazon ',
     image: 'image/appetit/p2.jpg',

@@ -33,7 +33,7 @@ class _AHomeFragmentState extends State<AHomeFragment> {
             child: Image.asset('image/appetit/a_face.jpeg', height: 30, width: 30, fit: BoxFit.cover),
           ),
         ),
-        title: Align(alignment: Alignment.center, child: Text('Appetit', style: TextStyle(fontSize: 20))),
+        title: Align(alignment: Alignment.center, child: Text('Nihancoder Food', style: TextStyle(fontSize: 20))),
         actions: [
           Padding(padding: EdgeInsets.only(right: 8.0), child: Icon(Icons.search, size: 27, color: context.iconColor)),
         ],

@@ -30,7 +30,7 @@ class ASetupCompleteScreen extends StatelessWidget {
             right: 16,
             child: Align(
               alignment: Alignment.center,
-              child: Text('Appetit', style: TextStyle(fontSize: 25, color: Colors.white)),
+              child: Text('Nihancoder Food', style: TextStyle(fontSize: 25, color: Colors.white)),
             ),
           ),
 
