@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.appetit">
+    package="com.nihancoder.food_recipe">
    <application
         android:label="Appetit"
         android:icon="@mipmap/ic_launcher">
