@@ -1,9 +1,9 @@
-import 'package:appetit/screens/ALiveCookingRecipeScreen.dart';
-import 'package:appetit/utils/ADataProvider.dart';
+import 'package:food_rcipe/screens/ALiveCookingRecipeScreen.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
 import 'package:flutter/material.dart';
-import 'package:appetit/utils/AColors.dart';
+import 'package:food_rcipe/utils/AColors.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/main.dart';
 
 class ALiveCookingListScreen extends StatelessWidget {
   const ALiveCookingListScreen({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
-import 'package:appetit/screens/AWelcomeScreen.dart';
-import 'package:appetit/utils/ADataProvider.dart';
+import 'package:food_rcipe/screens/AWelcomeScreen.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';

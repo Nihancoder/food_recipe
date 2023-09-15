@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:appetit/utils/AColors.dart';
+import 'package:food_rcipe/utils/AColors.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/main.dart';
 
 class AAddIngredientsComponent extends StatelessWidget {
   const AAddIngredientsComponent({Key? key}) : super(key: key);

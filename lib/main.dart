@@ -1,13 +1,13 @@
-import 'package:appetit/store/AppStore.dart';
-import 'package:appetit/utils/AConstants.dart';
-import 'package:appetit/utils/ADataProvider.dart';
-import 'package:appetit/utils/AppTheme.dart';
+import 'package:food_rcipe/store/AppStore.dart';
+import 'package:food_rcipe/utils/AConstants.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
+import 'package:food_rcipe/utils/AppTheme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
 
 import 'screens/ASplashScreen.dart';
-// Updated by Nazim
+
 AppStore appStore = AppStore();
 
 void main() async {

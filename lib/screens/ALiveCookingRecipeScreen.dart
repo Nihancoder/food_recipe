@@ -1,12 +1,12 @@
-import 'package:appetit/components/ADiscussionComponent.dart';
-import 'package:appetit/screens/ACategoryListScreen.dart';
-import 'package:appetit/utils/ADataProvider.dart';
-import 'package:appetit/screens/ADiscussionScreen.dart';
-import 'package:appetit/screens/AReviewScreen.dart';
+import 'package:food_rcipe/components/ADiscussionComponent.dart';
+import 'package:food_rcipe/screens/ACategoryListScreen.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
+import 'package:food_rcipe/screens/ADiscussionScreen.dart';
+import 'package:food_rcipe/screens/AReviewScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:appetit/utils/AColors.dart';
+import 'package:food_rcipe/utils/AColors.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/main.dart';
 
 // ignore: must_be_immutable
 class ALiveCookingRecipeScreen extends StatefulWidget {

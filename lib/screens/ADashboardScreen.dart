@@ -1,8 +1,8 @@
-import 'package:appetit/fragments/AHomeFragment.dart';
-import 'package:appetit/fragments/ANotificationFragment.dart';
-import 'package:appetit/fragments/AProfileFragment.dart';
-import 'package:appetit/screens/AAddRecipeScreen.dart';
-import 'package:appetit/fragments/ASearchFragment.dart';
+import 'package:food_rcipe/fragments/AHomeFragment.dart';
+import 'package:food_rcipe/fragments/ANotificationFragment.dart';
+import 'package:food_rcipe/fragments/AProfileFragment.dart';
+import 'package:food_rcipe/screens/AAddRecipeScreen.dart';
+import 'package:food_rcipe/fragments/ASearchFragment.dart';
 import 'package:flutter/material.dart';
 
 class ADashboardScreen extends StatefulWidget {

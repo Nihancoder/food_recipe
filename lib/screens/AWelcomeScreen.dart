@@ -1,9 +1,9 @@
-import 'package:appetit/screens/ALoginScreen.dart';
-import 'package:appetit/screens/ARegisterScreen.dart';
+import 'package:food_rcipe/screens/ALoginScreen.dart';
+import 'package:food_rcipe/screens/ARegisterScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:appetit/utils/AColors.dart';
+import 'package:food_rcipe/utils/AColors.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/main.dart';
 
 class AWelcomeScreen extends StatefulWidget {
   const AWelcomeScreen({Key? key}) : super(key: key);

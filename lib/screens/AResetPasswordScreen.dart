@@ -1,8 +1,8 @@
-import 'package:appetit/screens/AAccountSetupScreen.dart';
+import 'package:food_rcipe/screens/AAccountSetupScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:appetit/utils/AColors.dart';
+import 'package:food_rcipe/utils/AColors.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/main.dart';
 
 class AResetPasswordScreen extends StatefulWidget {
   const AResetPasswordScreen({Key? key}) : super(key: key);

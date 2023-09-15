@@ -1,10 +1,10 @@
-import 'package:appetit/screens/AForgetPasswordScreen.dart';
-import 'package:appetit/screens/ARegisterScreen.dart';
-import 'package:appetit/screens/ADashboardScreen.dart';
+import 'package:food_rcipe/screens/AForgetPasswordScreen.dart';
+import 'package:food_rcipe/screens/ARegisterScreen.dart';
+import 'package:food_rcipe/screens/ADashboardScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/utils/AColors.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/utils/AColors.dart';
+import 'package:food_rcipe/main.dart';
 
 class ALoginScreen extends StatefulWidget {
   const ALoginScreen({Key? key}) : super(key: key);

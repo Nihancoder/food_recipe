@@ -1,6 +1,6 @@
 
-import 'package:appetit/utils/AColors.dart';
-import 'package:appetit/utils/AConstants.dart';
+import 'package:food_rcipe/utils/AColors.dart';
+import 'package:food_rcipe/utils/AConstants.dart';
 import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
 import 'package:nb_utils/nb_utils.dart';

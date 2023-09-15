@@ -1,4 +1,4 @@
-import 'package:appetit/utils/ADataProvider.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 
