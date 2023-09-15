@@ -1,9 +1,9 @@
-import 'package:appetit/components/APopularRecipesComponent.dart';
-import 'package:appetit/utils/AColors.dart';
-import 'package:appetit/main.dart';
-import 'package:appetit/screens/ACategoryListScreen.dart';
-import 'package:appetit/screens/ALiveCookingListScreen.dart';
-import 'package:appetit/screens/ATopChefListScreen.dart';
+import 'package:food_rcipe/components/APopularRecipesComponent.dart';
+import 'package:food_rcipe/utils/AColors.dart';
+import 'package:food_rcipe/main.dart';
+import 'package:food_rcipe/screens/ACategoryListScreen.dart';
+import 'package:food_rcipe/screens/ALiveCookingListScreen.dart';
+import 'package:food_rcipe/screens/ATopChefListScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 

@@ -1,12 +1,12 @@
-import 'package:appetit/components/APopularRecipesComponent.dart';
-import 'package:appetit/components/ASearchGalleriesComponent.dart';
-import 'package:appetit/components/ASearchLiveComponent.dart';
-import 'package:appetit/components/ASearchTopChefComponent.dart';
-import 'package:appetit/utils/ADataProvider.dart';
+import 'package:food_rcipe/components/APopularRecipesComponent.dart';
+import 'package:food_rcipe/components/ASearchGalleriesComponent.dart';
+import 'package:food_rcipe/components/ASearchLiveComponent.dart';
+import 'package:food_rcipe/components/ASearchTopChefComponent.dart';
+import 'package:food_rcipe/utils/ADataProvider.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:appetit/utils/AColors.dart';
-import 'package:appetit/main.dart';
+import 'package:food_rcipe/utils/AColors.dart';
+import 'package:food_rcipe/main.dart';
 
 class ASearchFragment extends StatefulWidget {
   ASearchFragment({Key? key}) : super(key: key);
